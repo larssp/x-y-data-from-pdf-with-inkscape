@@ -4,4 +4,4 @@
 
 Use Inkscape and an octave script to extract x-y plot data from vector figures in pdf files.
 
-Example usage is described in the Jupyter Notebook file.
+Example usage is described in the Jupyter Notebook file. The m file also runs in Matlab.
